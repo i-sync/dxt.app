@@ -1,0 +1,111 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{33043CA0-A0B2-442A-9A10-1FB8888AD20E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Model</RootNamespace>
+    <AssemblyName>Model</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>WindowsCE</PlatformFamilyName>
+    <PlatformID>E2BECB1F-8C8C-41ba-B736-9BE7D946A398</PlatformID>
+    <OSVersion>5.00</OSVersion>
+    <DeployDirSuffix>Model</DeployDirSuffix>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <NativePlatformName>Windows CE</NativePlatformName>
+    <FormFactorID>
+    </FormFactorID>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ArrivalVouch.cs" />
+    <Compile Include="ArrivalVouchs.cs" />
+    <Compile Include="AssistInfo.cs" />
+    <Compile Include="BarCode.cs" />
+    <Compile Include="Cast.cs" />
+    <Compile Include="CheckDetail.cs" />
+    <Compile Include="Competence.cs" />
+    <Compile Include="DepartMent.cs" />
+    <Compile Include="DispatchDetail.cs" />
+    <Compile Include="DispatchList.cs" />
+    <Compile Include="GSPVouchDetail.cs" />
+    <Compile Include="GSP_Vouchqc.cs" />
+    <Compile Include="GSP_Vouchsqc.cs" />
+    <Compile Include="IQuantitySearch.cs" />
+    <Compile Include="KV.cs" />
+    <Compile Include="PoDetail.cs" />
+    <Compile Include="PoDetailInfo.cs" />
+    <Compile Include="PoInfo.cs" />
+    <Compile Include="Pomain.cs" />
+    <Compile Include="Position.cs" />
+    <Compile Include="PurchaseBackDetail.cs" />
+    <Compile Include="PurchaseBackVouch.cs" />
+    <Compile Include="Regulatory.cs" />
+    <Compile Include="SaleBackGSPDetail.cs" />
+    <Compile Include="SaleBackGSPVouch.cs" />
+    <Compile Include="SaleBillVouch.cs" />
+    <Compile Include="SaleOutGSPVouch.cs" />
+    <Compile Include="SaleOutRedDetail.cs" />
+    <Compile Include="SaleOutRedList.cs" />
+    <Compile Include="ShippingChoice.cs" />
+    <Compile Include="STInProduct.cs" />
+    <Compile Include="STInProductDetail.cs" />
+    <Compile Include="StockIn.cs" />
+    <Compile Include="StockInDetail.cs" />
+    <Compile Include="User.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RD_Style.cs" />
+    <Compile Include="Warehouse.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

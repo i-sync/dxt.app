@@ -1,0 +1,86 @@
+[Header]
+2013-12-09 16:38:19,085 [2316] INFO  Service.Logging []  - 读取文件：update\release\HTApp.exe
+2013-12-09 16:38:19,100 [2316] INFO  Service.Logging []  - 返回update\release\HTApp.exe文件内容!
+2013-12-09 16:38:19,361 [2316] INFO  Service.Logging []  - 读取文件：update\release\U8Business.dll
+2013-12-09 16:38:19,362 [2316] INFO  Service.Logging []  - 返回update\release\U8Business.dll文件内容!
+2013-12-09 16:38:19,401 [2316] INFO  Service.Logging []  - 读取文件：update\release\Model.dll
+2013-12-09 16:38:19,401 [2316] INFO  Service.Logging []  - 返回update\release\Model.dll文件内容!
+2013-12-09 16:38:19,426 [2316] INFO  Service.Logging []  - 读取文件：update\release\U8.xml
+2013-12-09 16:38:19,426 [2316] INFO  Service.Logging []  - 返回update\release\U8.xml文件内容!
+[Footer]
+[Header]
+[Footer]
+[Header]
+2013-12-09 16:40:12,239 [10816] INFO  Service.Logging []  - 读取文件：update\release\HTApp.exe
+2013-12-09 16:40:12,241 [10816] INFO  Service.Logging []  - 返回update\release\HTApp.exe文件内容!
+2013-12-09 16:40:12,457 [10816] INFO  Service.Logging []  - 读取文件：update\release\U8Business.dll
+2013-12-09 16:40:12,457 [10816] INFO  Service.Logging []  - 返回update\release\U8Business.dll文件内容!
+2013-12-09 16:40:12,486 [10816] INFO  Service.Logging []  - 读取文件：update\release\Model.dll
+2013-12-09 16:40:12,486 [10816] INFO  Service.Logging []  - 返回update\release\Model.dll文件内容!
+2013-12-09 16:40:12,509 [10816] INFO  Service.Logging []  - 读取文件：update\release\U8.xml
+2013-12-09 16:40:12,510 [10816] INFO  Service.Logging []  - 返回update\release\U8.xml文件内容!
+[Footer]
+[Header]
+2013-12-09 16:48:16,446 [2316] INFO  Service.Logging []  - 读取文件：update\release\HTApp.exe
+2013-12-09 16:48:16,448 [2316] INFO  Service.Logging []  - 返回update\release\HTApp.exe文件内容!
+2013-12-09 16:48:16,641 [2316] INFO  Service.Logging []  - 读取文件：update\release\U8Business.dll
+2013-12-09 16:48:16,641 [2316] INFO  Service.Logging []  - 返回update\release\U8Business.dll文件内容!
+2013-12-09 16:48:16,668 [2316] INFO  Service.Logging []  - 读取文件：update\release\Model.dll
+2013-12-09 16:48:16,668 [2316] INFO  Service.Logging []  - 返回update\release\Model.dll文件内容!
+2013-12-09 16:48:16,693 [2316] INFO  Service.Logging []  - 读取文件：update\release\U8.xml
+2013-12-09 16:48:16,693 [2316] INFO  Service.Logging []  - 返回update\release\U8.xml文件内容!
+2013-12-09 16:48:24,636 [2316] INFO  Service.Logging []  - 读取文件：update\release\HTApp.exe
+2013-12-09 16:48:24,638 [2316] INFO  Service.Logging []  - 返回update\release\HTApp.exe文件内容!
+2013-12-09 16:48:24,833 [2316] INFO  Service.Logging []  - 读取文件：update\release\U8Business.dll
+2013-12-09 16:48:24,833 [2316] INFO  Service.Logging []  - 返回update\release\U8Business.dll文件内容!
+2013-12-09 16:48:24,859 [2316] INFO  Service.Logging []  - 读取文件：update\release\Model.dll
+2013-12-09 16:48:24,859 [2316] INFO  Service.Logging []  - 返回update\release\Model.dll文件内容!
+2013-12-09 16:48:24,884 [2316] INFO  Service.Logging []  - 读取文件：update\release\U8.xml
+2013-12-09 16:48:24,884 [2316] INFO  Service.Logging []  - 返回update\release\U8.xml文件内容!
+[Footer]
+[Header]
+2013-12-09 16:50:00,426 [3580] INFO  Service.Logging []  - 读取文件：update\release\HTApp.exe
+2013-12-09 16:50:00,428 [3580] INFO  Service.Logging []  - 返回update\release\HTApp.exe文件内容!
+2013-12-09 16:50:00,638 [2316] INFO  Service.Logging []  - 读取文件：update\release\U8Business.dll
+2013-12-09 16:50:00,638 [2316] INFO  Service.Logging []  - 返回update\release\U8Business.dll文件内容!
+2013-12-09 16:50:00,663 [2316] INFO  Service.Logging []  - 读取文件：update\release\Model.dll
+2013-12-09 16:50:00,664 [2316] INFO  Service.Logging []  - 返回update\release\Model.dll文件内容!
+2013-12-09 16:50:00,687 [2316] INFO  Service.Logging []  - 读取文件：update\release\U8.xml
+2013-12-09 16:50:00,687 [2316] INFO  Service.Logging []  - 返回update\release\U8.xml文件内容!
+[Footer]
+[Header]
+2013-12-09 16:53:39,408 [10816] INFO  Service.Logging []  - 读取文件：update\release\HTApp.exe
+2013-12-09 16:53:39,411 [10816] INFO  Service.Logging []  - 返回update\release\HTApp.exe文件内容!
+2013-12-09 16:53:39,620 [10816] INFO  Service.Logging []  - 读取文件：update\release\U8Business.dll
+2013-12-09 16:53:39,621 [10816] INFO  Service.Logging []  - 返回update\release\U8Business.dll文件内容!
+2013-12-09 16:53:39,646 [10816] INFO  Service.Logging []  - 读取文件：update\release\Model.dll
+2013-12-09 16:53:39,647 [10816] INFO  Service.Logging []  - 返回update\release\Model.dll文件内容!
+2013-12-09 16:53:39,669 [10816] INFO  Service.Logging []  - 读取文件：update\release\U8.xml
+2013-12-09 16:53:39,669 [10816] INFO  Service.Logging []  - 返回update\release\U8.xml文件内容!
+[Footer]
+[Header]
+[Footer]
+[Header]
+[Footer]
+[Header]
+[Footer]
+[Header]
+[Footer]
+[Header]
+[Footer]
+[Header]
+[Footer]
+[Header]
+[Footer]
+[Header]
+[Footer]
+[Header]
+[Footer]
+[Header]
+[Footer]
+[Header]
+[Footer]
+[Header]
+[Footer]
+[Header]
+[Footer]

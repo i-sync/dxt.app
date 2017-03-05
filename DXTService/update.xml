@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>  
+  <version>1.0.0.2</version>
+  <description>修正一些Bug</description>
+  <filelist sourcepath="update\release">
+    <file>
+      <name>HTApp.exe</name>
+      <size>391</size>
+      <subVer>1.0.0.0</subVer>
+    </file>
+    <file>
+      <name>U8Business.dll</name>
+      <size>1234</size>
+      <subVer>1.0.0.0</subVer>
+    </file>
+    <file>
+      <name>Model.dll</name>
+      <size>483</size>
+      <subVer>1.0.0.0</subVer>
+    </file>
+    <file>
+      <name>U8.xml</name>
+      <size>123</size>
+      <subVer>1.0.0.0</subVer>
+    </file>
+  </filelist>
+</root>
